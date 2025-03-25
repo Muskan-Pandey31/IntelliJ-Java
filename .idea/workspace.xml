@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5075808-99a9-41a8-8a39-b3b7afdac46c" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/Basic_If_else_Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condition1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grading_System.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Print_Z.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Print_Z.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditions.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,21 @@
       <option name="project" value="LOCAL" />
       <updated>1742913557407</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1742915656768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742915656768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1742916438035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742916438035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
