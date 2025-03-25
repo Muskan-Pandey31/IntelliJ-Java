@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Loop {
@@ -12,7 +11,6 @@ public class Loop {
         }
         System.out.println("Done");
         System.out.println("------For loop------");
-//        int j = sc.nextInt();
         for (int j = 0; j <= 10; j++){
             System.out.println(j);
         }
